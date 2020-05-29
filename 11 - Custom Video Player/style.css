@@ -54,6 +54,10 @@ body {
   max-width:50px;
 }
 
+.player__button:hover {
+  color: #ffc600;
+}
+
 .player__button:focus {
   border-color: #ffc600;
 }
